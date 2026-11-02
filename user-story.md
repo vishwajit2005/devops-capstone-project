@@ -1,6 +1,14 @@
-# User Stories
-- As a DevOps engineer, I want to set up the development environment.
-- As a customer, I want to read an account from the service.
-- As a customer, I want to list all accounts in the service.
-- As a customer, I want to update an account in the service.
-- As a customer, I want to delete an account from the service.
+# User Story Template
+
+## Template Format
+As a [role], 
+I need [feature/functionality], 
+So that [benefit/value].
+
+## Details and Acceptance Criteria
+- **Details:** 
+  - Add relevant technical details or system behavior.
+- **Acceptance Criteria:**
+  - Given [initial context/precondition],
+  - When [action taken],
+  - Then [expected outcome/result].
